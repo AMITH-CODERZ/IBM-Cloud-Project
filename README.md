@@ -75,7 +75,7 @@ The model accurately identifies and classifies different fault types, helping au
 
 ## 👤 Author
 
-- **Name**: *[Amith Bhambhu]*
+- **Name**: *Amith Bhambhu*
 - **Internship Duration**: July 15 – August 7, 2025  
 - **Program**: IBM SkillsBuild Internship (Edunet Foundation)
 
